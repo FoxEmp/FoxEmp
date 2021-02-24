@@ -1,4 +1,8 @@
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Bem vindo a Fox Developers.  
+<h1 align="center">
+  <img src="https://simpleicons.org/icons/next-dot-js.svg" width="30px">
+  Olá! 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, 
+  Bem vindo a Fox Developers.  
   <img src="https://simpleicons.org/icons/next-dot-js.svg" width="30px">  </h1> 
 
 <h3 align="center">Temos como foco o incio de uma pequena comunidade e futura empresa de desenvolvimento WEB</h3>
