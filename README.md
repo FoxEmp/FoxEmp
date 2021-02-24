@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://simpleicons.org/icons/next-dot-js.svg" width="30px">
   Olá! 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 
   Bem vindo a Fox Developers.  
   <img src="https://simpleicons.org/icons/next-dot-js.svg" width="30px">  </h1> 
 
